@@ -70,7 +70,7 @@ Hack-Academia is designed to be your go-to repository for learning, exploring, a
   </a>
 </p>-->
 
-## Table of Contents
+<!--## Table of Contents
  * [🔒 Cybersecurity Education & Practical Labs](#🔒cybersecurity-education-&-practical-labs)
  * [Valuable Repositories](#valuable-repositories)
  * [Helpful Repositories](#helpful-repositories)
@@ -87,9 +87,35 @@ Hack-Academia is designed to be your go-to repository for learning, exploring, a
  * [Blogs](#Blogs)
  * [Hacking and Security Forums](#hacking-and-security-forums)
  * [Network Scanning / Reconnaissance](#network-scanning--reconnaissance)
- * [Credit To All Below](#Credit-To-All-Below)
+ * [Credit To All Below](#Credit-To-All-Below)-->
 
+Here's a structured Table of Contents for your repository "Hack-Academia":
 
+## Table of Contents
+
+- [✨ Features](#-features)
+- [📜 Legal Note](#-legal-note)
+- [🚀 Get Started](#-get-started)
+- [🔒 Cybersecurity Education & Practical Labs](#-cybersecurity-education--practical-labs)
+- [📘 Valuable Repositories](#-valuable-repositories)
+- [🛠️ Helpful Repositories](#-helpful-repositories)
+- [🔍 Reverse Engineering, Buffer Overflow, and Exploit Development](#-reverse-engineering-buffer-overflow-and-exploit-development)
+- [🛡️ Malware Analysis](#-malware-analysis)
+- [🚀 Elevating Privileges](#-elevating-privileges)
+- [🕸️ Vulnerable Web Applications](#-vulnerable-web-applications)
+- [🐧 Linux Penetration Testing OS](#-linux-penetration-testing-os)
+- [📺 YouTube Channels](#-youtube-channels)
+  - [🎤 Conferences](#-conferences)
+  - [🏢 Companies](#-companies)
+  - [📰 Cybersecurity News](#-cybersecurity-news)
+  - [🕵️‍♂️ HACKING GOOGLE Series](#-hacking-google-series)
+- [🌐 Online Communities](#-online-communities)
+- [📝 Blogs](#-blogs)
+- [💻 Hacking and Security Forums](#-hacking-and-security-forums)
+- [📡 Network Scanning / Reconnaissance](#-network-scanning--reconnaissance)
+- [🌟 Credit To All Below](#-credit-to-all-below)
+
+This structure provides a clear and organized overview for visitors to navigate through your repository.
 
 ## ✨ Features
 
