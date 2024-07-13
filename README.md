@@ -48,7 +48,7 @@ Additionally, consider the following rules:
 
 URLs marked with **\*** are temporarily unavailable. Please do not delete them without confirming their permanent expiration.
 
-Before submitting a pull request, please review the **[contributing guidelines](.github/CONTRIBUTING.md)**. Keep in mind:
+Before submitting a pull request, please review the **[contributing guidelines](https://github.com/Hunterdii/Hack-Academia/blob/main/CONTRIBUTING.md)**. Keep in mind:
 
 ```diff
 + This repository is focused on quality over quantity.
@@ -70,24 +70,6 @@ Hack-Academia is designed to be your go-to repository for learning, exploring, a
   </a>
 </p>-->
 
-<!--## Table of Contents
- * [🔒 Cybersecurity Education & Practical Labs](#🔒cybersecurity-education-&-practical-labs)
- * [Valuable Repositories](#valuable-repositories)
- * [Helpful Repositories](#helpful-repositories)
- * [Reverse Engineering, Buffer Overflow and Exploit Development](#reverse-engineering-buffer-overflow-and-exploit-development)
- * [Malware Analysis](#malware-analysis)
- * [Elevating Privileges](#elevating-privileges)
- * [Vulnerable Web Application](#vulnerable-web-application)
- * [Linux Penetration Testing OS](#linux-penetration-testing-os)
- * [YouTube Channels](#youtube-channels)
-   * [Companies](#Companies)
-   * [Conferences](#Conferences)
-   * [Cybersecurity News](#cybersecurity-news)
-   * [HACKING GOOGLE Series](#HACKING-GOOGLE-Series)
- * [Blogs](#Blogs)
- * [Hacking and Security Forums](#hacking-and-security-forums)
- * [Network Scanning / Reconnaissance](#network-scanning--reconnaissance)
- * [Credit To All Below](#Credit-To-All-Below)-->
 
 ## Table of Contents
 
