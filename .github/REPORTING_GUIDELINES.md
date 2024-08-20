@@ -24,7 +24,7 @@ To report an incident, please provide the following information:
 
 You can report incidents via:
 
-- **Email**: [hack-academia-support@example.com](mailto:huntermojedra@gmail.com)
+- **Email**: [hack-academia-support@gmail.com](mailto:huntermojedra@gmail.com)
 - **Direct Message**: Reach out to any member of the [Hack-Academia Moderation Team Leader](https://www.linkedin.com/in/het-patel-8b110525a/).
 
 ## 🔒 Confidentiality
